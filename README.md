@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Raikaris!
-- 👀 I’m interested in HTML, CSS, and Javascript! 
-- 🌱 I’m currently learning HTML, CSS, Javascript, Python, Angular, etc.
+- 👀 I’m interested in creating websites and applications for a community I'm in!
+- 🌱 I’m currently learning full-stack development using The Odin Project!
 - 💞️ I’m looking to collaborate on nothing atm! I'm still very early in learning front-end webdev skills so I'm not looking to join in on any projects at the moment outside of personal ones to help advance my skills.
 - 📫 How to reach me; I'd prefer not to be messaged unless we already know each other or already share / collaborate on a project together! Thank you!
 
